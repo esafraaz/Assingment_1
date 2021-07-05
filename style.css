@@ -1,11 +1,12 @@
 body{
     margin: 0;
+    padding: 0;
 }
 .section_prop{
     display: flex;
     padding: 50px;
 }
-#Head_wrd{
+.Head_wrd{
     color: rgb(0, 95, 184);
 }
 h1{
@@ -66,4 +67,27 @@ p{
 }
 .boxing img{
     width: 100%;
+}
+#boxed-sec{
+    display: flex;
+    padding: 15px;
+    margin: 50px;
+    width: 90%;
+    border-width: 5px;
+    box-shadow: 5px 5px 5px 5px skyblue;
+    border-radius: 10px;
+}
+.boxed-sec-div{
+    width: 33%;
+    text-align: center;
+}
+.last-word{
+    color: rgb(255, 255, 255);
+}
+.foot{
+    text-align: center;
+    background-color: rgb(12, 166, 228);
+    height : 220px;
+    margin-bottom:0;
+}
 }
