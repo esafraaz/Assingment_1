@@ -1,10 +1,9 @@
 body{
     margin: 0;
-    padding: 0;
 }
 .section_prop{
     display: flex;
-    padding: 50px;
+    padding: 20px;
 }
 .Head_wrd{
     color: rgb(0, 95, 184);
@@ -52,7 +51,7 @@ p{
 #img-bottom{
     width: 50%;
     position: unset;
-    bottom: 0px;
+    bottom: 0;
 }
 .solo-div{
     text-align: center;
@@ -61,7 +60,6 @@ p{
     padding: 15px;
     margin: 80px;
     width: 33%;
-    border-width: 5px;
     box-shadow: 5px 5px 5px 5px skyblue;
     border-radius: 10px;
 }
@@ -70,10 +68,7 @@ p{
 }
 #boxed-sec{
     display: flex;
-    padding: 15px;
-    margin: 50px;
-    width: 90%;
-    border-width: 5px;
+    margin: 50px 100px;
     box-shadow: 5px 5px 5px 5px skyblue;
     border-radius: 10px;
 }
@@ -84,10 +79,10 @@ p{
 .last-word{
     color: rgb(255, 255, 255);
 }
-.foot{
+footer{
+    padding: 30px;
     text-align: center;
     background-color: rgb(12, 166, 228);
-    height : 220px;
+    height : 200px;
     margin-bottom:0;
-}
 }
