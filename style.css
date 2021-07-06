@@ -33,6 +33,13 @@ p{
     border-radius: 25px;
 
 }
+.button-dg2{
+    background-color: skyblue;
+    background-image: linear-gradient(skyblue, royalblue);
+    color: whitesmoke;
+    font-weight: 800; padding: 10px;
+    border-radius: 25px;
+}
 .div_prop{
     padding: 50px;
     width: 50%;
@@ -45,7 +52,6 @@ p{
     background-image: url(image/2nd_bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-
 }
 #img-bottom{
     width: 50%;
@@ -78,6 +84,7 @@ p{
 .last-word{
     color: rgb(255, 255, 255);
 }
+
 footer{
     padding: 30px;
     text-align: center;
