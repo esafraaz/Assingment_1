@@ -37,8 +37,9 @@ p{
     background-color: skyblue;
     background-image: linear-gradient(skyblue, royalblue);
     color: whitesmoke;
-    font-weight: 800; padding: 10px;
+    font-weight: 800; padding: 15px 20px;
     border-radius: 25px;
+    margin-top: 40px;
 }
 .div_prop{
     padding: 50px;
